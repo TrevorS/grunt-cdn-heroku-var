@@ -36,7 +36,7 @@ grunt.initConfig({
         'angular': [{
           url_template: '//cdnjs.cloudflare.com/ajax/libs/angular.js/{{VERSION}}/angular.min.js',
           type: 'js'
-        }],
+        }]
       }
     }
   }
